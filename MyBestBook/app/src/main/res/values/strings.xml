@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Best Book</string>
+    <string name="books_name">Nama Buku</string>
+    <string name="sinopsis">Sinopsis</string>
+</resources>
